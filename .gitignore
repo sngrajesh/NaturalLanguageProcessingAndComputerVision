@@ -6,7 +6,7 @@ __pycache__/
 bert--classifier/
 # Folders
 content/
-
+dl_env/
 # C extensions
 *.so
 
